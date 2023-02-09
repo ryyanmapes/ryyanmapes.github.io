@@ -20,7 +20,7 @@
 }
 
 #logo {
-    padding: 10% 0px 70% 0px;
+    padding: 12% 0px 80% 0px;
     height: 28%;
     image-rendering: pixelated;
 }
@@ -73,4 +73,24 @@
     margin-right: auto;
     max-width: 600px;
     width: 75%;
+}
+
+#links {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #CDCDCD;
+    font-size: 25px;
+}
+
+#email {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #CDCDCD;
+    font-size: 10px;
 }
