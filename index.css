@@ -25,6 +25,18 @@
     image-rendering: pixelated;
 }
 
+#table {
+    padding: 10px 0px 10px 0px;
+    width: 100%;
+    max-width: 941px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#table_row {
+    width: 33.33%;
+}
+
 #divider_top {
     padding: 10px 0px 0px 0px;
     width: 100%;
