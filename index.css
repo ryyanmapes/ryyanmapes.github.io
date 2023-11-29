@@ -1,10 +1,13 @@
+
+@font-face { font-family: Playful; font-weight: bold; src: url('AngelikaPlayfull.ttf');}
+
 #body {
     padding: 0;
     margin:0;
     color: #000000;
     background-color: #2B2B29;
-    font-family: 'Bubblegum Sans';
-    font-size: 22px;
+    font-family: 'Playful';
+    font-size: 30px;
     image-rendering: pixelated;
 }
 
@@ -94,7 +97,7 @@
     margin-right: auto;
     text-align: center;
     color: #FF5B79;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 #email {
@@ -104,5 +107,5 @@
     margin-right: auto;
     text-align: center;
     color: #CDCDCD;
-    font-size: 10px;
+    font-size: 15px;
 }
